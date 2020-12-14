@@ -41,7 +41,7 @@
     "semantic-release": "17.2.3",
     "serverless": "1.78.1",
     "serverless-google-cloudfunctions": "^3.1.0",
-    "smee-client": "1.1.0",
+    "smee-client": "1.2.2",
     "standard": "14.3.4"
   },
   "engines": {
